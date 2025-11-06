@@ -1,2 +1,2 @@
 # Splunk-Boss-of-the-SOC-BOTS
-There are questions and solution answers for the scenarios of all versions of Boss of the SOC (BOTS)
+Boss of the SOC'nin (BOTS) tüm versiyonlarının senaryoları için soru ve çözüm cevapları mevcuttur.
